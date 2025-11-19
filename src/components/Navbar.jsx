@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import Logo from '../assets/logo.png'
+import Logo from '../assets/new_logo.png'
 import { DoctorContext } from '../context/DoctorContext'
 import { AdminContext } from '../context/AdminContext'
 import { useNavigate } from 'react-router-dom'
