@@ -10,7 +10,11 @@ export default {
         'auto':'repeat(auto-fill, minmax(200px, 1fr))'
       },
       colors:{
-        'primary':'#5F6FFF'
+        primary: "#9B4A50",      // Muted Rosewood
+        secondary: "#F5EFE7",    // Almond Milk
+        accent: "#716F3E",       // Moss Green
+        highlight: "#BDA453",    // Old Gold
+        textcolor: "#2D2C2A"     // Warm Charcoal
       }
     },
   },

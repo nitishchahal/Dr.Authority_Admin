@@ -4,9 +4,14 @@
 @tailwind utilities;
 
 *{
-    font-family: Outfit;
+  font-family: 'Outfit', sans-serif;
+  color: #2D2C2A; /* Warm Charcoal as default text */
+}
+
+body {
+  background-color: #F5EFE7; /* Almond Milk background */
 }
 
 ::-webkit-scrollbar{
-    display: none;
+  display: none;
 }
